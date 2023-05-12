@@ -55,4 +55,32 @@ export const riderData = [
       strava: "https://www.strava.com/pros/1189566",
     },
   },
+  {
+    name: "Lotte Kopecky",
+    country: "Belgium",
+    team: "SD Worx",
+    age: 27,
+    height: "1.70m",
+    specialty: "Time Trial",
+    world_ranking: 5,
+    social_media: {
+      twitter: "https://twitter.com/@LotteKopecky",
+      instagram: "https://www.instagram.com/lottekopecky/",
+      strava: "n/a",
+    },
+  },
+  {
+    name: "Silvia Persico",
+    country: "Italy",
+    team: "UAE Team ADQ",
+    age: 25,
+    height: "1.64m",
+    specialty: "Time Trial",
+    world_ranking: 6,
+    social_media: {
+      twitter: "https://twitter.com/silvia_persico",
+      instagram: "https://www.instagram.com/silvia_persico/",
+      strava: "https://www.strava.com/athletes/40115427",
+    },
+  },
 ];
