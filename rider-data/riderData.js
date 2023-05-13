@@ -84,19 +84,64 @@ export const riderData = [
     },
   },
   {
-    "name": "Marianne Vos",
-    "country": "Netherlands",
-    "team": "Jumbo-Visma",
-    "age": 34,
-    "height": "1.68m",
-    "weight": "58kg",
-    "specialty": "sprinting",
-    "career_wins": 228,
-    "world_ranking": 2,
-    "social_media": {
-      "twitter": "@marianne_vos",
-      "instagram": "@mariannevosofficial"
-    }
-  }
-  
+    name: "Liane Lippert",
+    country: "Germany",
+    team: "Team DSM",
+    age: 23,
+    height: "1.70m",
+    weight: "56kg",
+    specialty: "climbing",
+    career_wins: 6,
+    world_ranking: 7,
+    social_media: {
+      twitter: "@lianelippert",
+      instagram: "@lianelippert",
+    },
+  },
+  {
+    name: "Elisa Balsamo",
+    country: "Italy",
+    team: "Valcar-Travel & Service",
+    age: 23,
+    height: "1.71m",
+    weight: "60kg",
+    specialty: "sprinting",
+    career_wins: 12,
+    world_ranking: 8,
+    social_media: {
+      twitter: "@ElisaBalsamo_",
+      instagram: "@elisabalsamo",
+    },
+  },
+
+  {
+    name: "Grace Brown",
+    country: "Australia",
+    team: "BikeExchange",
+    age: 29,
+    height: "1.76m",
+    weight: "63kg",
+    specialty: "time-trialing",
+    career_wins: 3,
+    world_ranking: 9,
+    social_media: {
+      twitter: "@gracieelvin",
+      instagram: "@gracieelvin",
+    },
+  },
+  {
+    name: "Juliette Labous",
+    country: "France",
+    team: "Team DSM",
+    age: 23,
+    height: "1.70m",
+    weight: "55kg",
+    specialty: "climbing",
+    career_wins: 2,
+    world_ranking: 10,
+    social_media: {
+      twitter: "@juliettelabous",
+      instagram: "@juliettelabous",
+    },
+  },
 ];
