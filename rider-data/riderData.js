@@ -83,4 +83,20 @@ export const riderData = [
       strava: "https://www.strava.com/athletes/40115427",
     },
   },
+  {
+    "name": "Marianne Vos",
+    "country": "Netherlands",
+    "team": "Jumbo-Visma",
+    "age": 34,
+    "height": "1.68m",
+    "weight": "58kg",
+    "specialty": "sprinting",
+    "career_wins": 228,
+    "world_ranking": 2,
+    "social_media": {
+      "twitter": "@marianne_vos",
+      "instagram": "@mariannevosofficial"
+    }
+  }
+  
 ];
