@@ -1,3 +1,20 @@
+type Socials = {
+  twitter: string;
+  instagram: string;
+  strava: string;
+};
+
+interface riderInfo {
+  name: string;
+  country: string;
+  team: string;
+  age: number;
+  height: string;
+  specialty: string;
+  world_ranking: number;
+  social_media: Socials;
+}
+
 export const riderData = [
   {
     name: "Demi Vollering",
